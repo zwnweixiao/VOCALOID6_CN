@@ -1,0 +1,625 @@
+﻿Origin,Trans
+Previous Grid,上一个网格
+Shift Lyrics Right(_R),歌词右移(_R)
+Help,帮助
+Line,线条
+Emotion,情感
+Add VOCALOID:AI Track,添加 VOCALOID:AI 轨道
+Select All Control Parameters(_P),控制参数全选(_P)
+Convert Phonemes to Match Language,转换发音符号至匹配语言
+Overwrite style preset?,是否复写样式预设？
+Failed to perform voice change. Error ,语音交换失败。错误 
+Buffer Size,缓冲区大小
+Do you really want to delete this style preset? This action cannot be undone.,是否删除此样式预设？该操作不可逆。
+Invalid Name.,无效名称。
+Cancel,取消
+The following audio files cannot be found.,无法找到下列音频文件。
+Cut,剪切
+Failed to delete tempo.,删除曲速标记失败。
+Quantize,量化
+The project data is optimized for the current version of VOCALOID Editor.,优化了项目数据以匹配当前VOCALOID编辑器版本。
+Grid - Triplet,网格 - 三连音
+Undo,撤消
+Supported Files|*.mid;*.midi;*.vsqx;*.vpr;*.wav|SMF|*.mid;*.midi|VOCALOID3/VOCALOID4|*.vsqx|VOCALOID5/VOCALOID6|*.vpr|Wave|*.wav,所支持的文件|*.mid;*.midi;*.vsqx;*.vpr;*.wav|SMF|*.mid;*.midi|VOCALOID3/VOCALOID4|*.vsqx|VOCALOID5/VOCALOID6|*.vpr|Wave|*.wav
+Convert Phonemes to Match Language,转换发音符号至匹配语言
+Update,更新
+Robot Voice,机器声音
+Check for Updates,检查更新
+Please select a language,请选择一门语言
+Quantize,量化
+Track Count,轨道数
+Tag Name,标签名
+Failed to divide VOCALOID Part.,分割VOCALOID片段失败。
+English,英文
+Select All,全选
+Can not resize part.,不能调节部分大小。
+Ended,授权已终止
+Japanese,日文
+Installation Complete.,安装完成。
+Scissors,剪刀
+Failed to add Audio track.,无法添加音轨。
+▼,▼
+https://www.vocaloid.com/en/vocaloid6/buy/,https://www.vocaloid.com/vocaloid6/buy/
+Check for Installation Status...,检查安装...
+Don't Allow,不允许
+Failed to edit phoneme timing.,无法编辑音素计时。
+Delete Time,删除时间
+Tempo and Time Signature...,曲速和节拍...
+▲,▲
+Failed to duplicate Panpot.,Panpot复制失败。
+Allow,允许
+Korean,韩文
+Failed to move Tempo.,移动曲速失败。
+Leading Expression,前部表达
+Add VOCALOID Track(_V),新增 VOCALOID 音轨(_V)
+Failed to initialize Lua Manager.,Lua Manager 初始化失败。
+Zoom Out Horizontally,水平方向缩小
+Press key:,输入按键：
+English,英文
+Arrow,箭头
+Measure Offset,小节步进偏移
+Download New Content,下载新内容
+Failed to set repeat playback section.,无法设置重复播放部分。
+Save your changes in the current preset?,正在编辑预设。 是否保存吗？
+Select All Main Volumes(_M),主音量控点全选(_M)
+  (remaining {0} voices),  (还有 {0} 个音源库)
+Please close all open VOCALOID windows before opening sequence file.,在打开序列文件之前，请关闭所有打开的 VOCALOID 窗口。
+Failed to add Track.,无法添加轨道。
+Pencil,铅笔
+Letter Mode,歌词输入模式
+Phoneme Lock,发音符号锁
+Set End Marker to Song Position,将结束标记设置为歌曲位置
+New Voice,新音源
+Failed to move Audio part.,无法移动音频片段。
+Repeat,重复
+Failed to launch VOCALOID Authorizer.,VOCALOID 激活器启动失败。
+Spanish,西班牙文
+Failed to create preset file path.,无法创建预设文件路径。
+Failed to open file.,无法打开文件。
+Japanese,日文
+Multi Track,多频道
+Chinese,中文
+Failed to delete Panpot.,无法删除Panpot。
+Failed to shift pitch. Error ,无法改变音高。错误 
+Set the current preset to the imported one?,切换到已导入的预置？
+Preset,预设
+https://www.vocaloid.com/en,https://www.vocaloid.com
+Copy(_C),复制(_C)
+Open...,打开...
+Failed to initialize Lua Controller.,无法初始化Lua控制器。
+Add Audio Track(_W),新增音频轨道(_W)
+Already assigned to:,有重复项：
+Ctrl+A,Ctrl+A
+VSQX File...,VSQX文件...
+Stop,停止
+Chinese,中文
+Overall Drift,整体偏移
+Track,轨道
+Breath,呼吸
+Play,播放
+Name,名称
+Type,类型
+Line(_L),直线(_L)
+Failed to add note.,无法添加音符。
+Original Voice,原音源
+Delete the current preset?,是否删除现有预设？
+A file with this name already exists. Overwrite existing file?,同名文件已存在。是否覆盖该文件？
+Export VPR...,导出VPR文件...
+Reset,重置
+Failed to duplicate Main Volume.,无法复制主音量。
+Bypass Effect Plug-ins,旁路效果插件
+Failed to perform multi track audio mixdown.,无法执行多轨音频混音。
+Preferences...,偏好设置...
+Keys,按键
+Export MIDI...,导出MIDI文件...
+Reset the shortcuts for this command to its default setting?,将此命令的快捷键重置为默认吗？
+Delete Style Presets(_D),移除风格预置(_D)
+Audio Engine Output,音频输出
+-,-
+VOCALOID5/6 Sequence|*.vpr|All Files|*.*,VOCALOID5/6 序列|*.vpr|所有文件|*.*
+An error occurred while closing the dialog. Discard changes and exit dialog.,关闭对话框时出错。放弃更改并退出对话框。
+Preferred Language,偏好语言
+Chinese,中文
+Import tempo and time signature,导入曲速和节拍
+Keyboard Shortcuts,键盘快捷键
+New Style Preset Name,新风格预设名称
+Failed to paste.,无法粘贴。
+English,英文
+Quit VOCALOID6 Editor,退出VOCALOID6 编辑器
+A style preset with this name already exists. It cannot be overwritten.,具有此名称的风格预设已存在。它不能被覆盖。
+Failed to move Time Signature.,无法移动节拍。
+Failed to initialize VSM.,无法初始化VSM。
+Ctrl+V,Ctrl+V
+"In order to improve the quality of this software/service, this software sends data that does not identify individuals to third parties. Yamaha and concerned third-parties collect and store data related to the use of this software, including customer access conditions, devices, OS versions and numbers of users.
+Do you permit transmission of software use conditions?","为了提高本软件/服务的质量，本软件会向第三方发送无法识别个人身份的数据。雅马哈和相关第三方收集和存储与使用本软件相关的数据，包括客户访问条件、设备、操作系统版本和用户数量。
+你们是否允许传输软件使用状况？"
+Add VOCALOID:AI Track(_I),新增 VOCALOID:AI 音轨(_I)
+Line,线条
+Lyric Input Mode,歌词输入模式
+https://www.yamaha.com/en/apps_docs/apps_dmi/dmi_PP_GA-20220412EN.html,https://www.yamaha.com/en/apps_docs/apps_dmi/dmi_PP_GA-20220412EN.html
+Failed to add Tempo.,无法添加曲速。
+"Save the changes? If not, the changes are lost.",是否保存更改？否则，更改将丢失。
+Repeat,重复
+Update Now (Launch Browser),现在更新(启动浏览器)
+Timing,时机
+A media file with this name already exists. It cannnot be overwritten.,相同媒体名已存在，不能覆盖。
+Failed to add control parameter.,无法添加控制参数。
+Save As,保存为
+Automatically check for updates,自动检测更新
+Name Empty.,名称不能为空。
+Vibrato(_I),颤音(_I)
+"Allow connection with VOCALOID Bridge plugin
+(requires reloading the VOCALOID Editor plugin)","允许与VOCALOID Bridge插件连接
+（需要重新加载VOCALOID 编辑器插件）"
+Overwrite the shortcut key?,是否覆写快捷键？
+Auto Scroll,自动滚动
+Export to Audio File...,导出音频文件...
+Transport,播放
+Failed to duplicate Tempo.,无法复制曲速。
+https://www.vocaloid.com/en/learn,https://www.vocaloid.com/learn
+Part Name,片段名称
+Failed to initialize Media Manager.,无法初始化媒体管理器。
+Edit,编辑
+Japanese,日文
+AudioDevice not found.,没找到音频设备。
+TimeSig Track,节拍轨道
+AudioDevice changed.,音频设备已经改变。
+Shift_JIS,Shift_JIS
+Import,导入
+Solo,独唱
+Mute,静音
+Zoom In Horizontally,水平方向放大
+Failed to perform Half Tempo.,无法折半曲速。
+About VOCALOID6 Editor...,关于VOCALOID6编辑器...
+Getting content information.,获取内容信息中。
+Expression,表达
+Stereo,双声道
+Failed to edit pitch.,无法编辑音高。
+Zoom Out Vertically,垂直方向缩小
+Audio File...,音频混缩...
+Failed to divide Audio part.,无法分割音频片段。
+Clear Cache,清理缓存
+Tag Name,标签名
+Failed to add VOCALOID:AI track.,无法添加VOCALOID:AI轨道。
+Korean,韩文
+Robot Voice could not be found.,无法找到机器声音。
+Trial period,正在试用期间
+Mixer,混音器
+Installed Products,已安装的产品
+Following Drift,后部偏移
+Reset Lyrics,重置歌词
+Failed to mixdown audio.,无法混出音频。
+The Wav file could not be loaded.,无法加载 Wav 文件。
+Audio,音频
+Show or Hide Lower Zone,开关底部区域
+Failed to perform time stretch. Error ,无法执行时间拉伸。错误 
+Select All Notes(_N),全选音符(_N)
+Do you want to save,是否保存
+Default Singing Skill could not be found.,找不到默认歌唱技能。
+Set Repeat to Selection Range,选择区间为重复范围
+Zoom Full,查看整个曲目
+Edit Style Preset Properties(_E),编辑风格预置属性(_E)
+Lyrics,歌词
+Next Grid,下一个网格
+Open Recent...,最近打开...
+Data Use,数据使用
+Metronome,节拍器
+One track,一个轨道
+Insert Lyrics,输入歌词
+Download New Content...,下载新内容...
+Phoneme Lock(_P),锁定音标(_P)
+MIDIPart Property,MIDI片段属性
+Save As...,另存为...
+Double Tempo,曲速翻倍
+Set start marker to song position(_S),将开始标记设定至光标位置(_S)
+Toggle Play/Stop,播放/停止切换
+Close,关闭
+Media Name,媒体名
+Play,播放
+Normalize Audio Wave(_N),对音频波形进行响度匹配(_N)
+Sampling Rate,采样率
+Sound Preview,声音预览
+Save Style,保存风格
+Ctrl+C,Ctrl+C
+Latest,最新
+Faild to open preset file.,无法打开预设文件。
+None,无
+Add,添加
+---,---
+OK,确定
+Create,创建
+Edit Style Preset Properties,编辑风格预设属性
+Job,工作
+Edit Song Position,编辑歌曲位置
+Spanish,西班牙文
+Bit,位
+Tempo Track,曲速轨道
+Purchase a license,购买一个授权凭证
+Expired,试用已过期
+Duplicate(_D),为选中元素创立副本(_D)
+"No voice has been installed.
+
+The VOCALOID6 Editor requires at least one installed voice to launch.
+
+Please install one separately.","没有安装声库。
+
+要启动VOCALOID6编辑器，必须安装一个或多个声库。
+
+请额外安装它们。"
+English,英文
+VOCALOID3/4 Sequence|*.vsqx|All Files|*.*,VOCALOID3/4 序列|*.vsqx|全部文件|*.*
+Relaunch VOCALOID Editor to apply changes.,重启VOCALOID编辑器以应用设定。
+Failed to import file.,导入文件失败。
+Failed to delete media.,无法删除媒体。
+Delete Audio Effect(_D),移除音频效果(_D)
+Different tracks,不同的轨道
+Permit transmission of software use conditions,允许软件传输使用状况信息
+Track Color,轨道颜色
+Copy,复制
+Failed to set audio device.,无法设置音频设备。
+Failed to initialize G2PA Manager.,无法初始化G2PA管理器。
+{0} days remaining,还剩 {0} 天
+Pitch(_P),音高(_P)
+Failed to save file. VOCALOID project size exceeds 2GB.,无法保存文件。VOCALOID 项目大小超过 2GB。
+Auto Scroll,自动滚动
+Failed to move VOCALOID part.,无法移动VOCALOID片段。
+"VOCALOID6 Editor cannot launch because the VOCALOID6 Standalone Version, VSTi Version, or AU Version is already running.",VOCALOID6编辑器无法启动，因为 VOCALOID6 独立版本、VSTi 版本或 AU 版本已在运行。
+Export,导出
+Remove,移除
+Style is not Selected.,未指定风格。
+Inspector,检查器
+Assign,分配
+The file name contains invalid characters.,文件名包含非法字符。
+Failed to move track.,无法移动轨道。
+Reference Manual,参考手册
+Add Part to Media(_M)...,将乐段加入媒体资源(_M)...
+Following Transition,后部过渡
+Double Tempo,曲速翻倍
+Track Name,轨道名
+Add VOCALOID Part to Media,添加VOCALOID片段到媒体
+Failed to add Time Signature.,无法添加节拍。
+"VOCALOID6 Editor not authorized.
+
+Please enter a valid VOCALOID6 serial code into the VOCALOID Authorizer.
+
+Authorize now?
+
+(Clicking [Authorize now] will launch the VOCALOID Authorizer.)","VOCALOID6编辑器未激活。
+
+请在VOCALOID激活器中输入VOCALOID6的序列号进行激活。
+
+现在激活吗？
+
+(点击[立即激活]以启动VOCALOID激活器。）"
+Stop,停止
+Join Parts(_J),合并乐段(_J)
+Add Audio Part to Media,添加音频片段到媒体
+Import,导入
+Cache Capacity,缓存容量
+Rename Preset,重命名预设
+Modified,已更改
+Failed to edit formant.,无法编辑格式。
+Insert Lyrics...,输入歌词...
+Japanese,日文
+An archive entry was not found or was corrupt.,未找到存档条目或已损坏。
+Join Parts,合并片段
+Export to Audio File,导出音频文件
+Progress,加载
+Duplicate,复制
+Editor,编辑器
+View,显示
+Import tempo and time signature?,导入速度和拍号？
+Korean,韩文
+Half Tempo,曲速减半
+Failed to duplicate Time Signature.,无法复制节拍。
+Quantize 50%,量化 50%
+General,一般
+Cache Size,缓存大小
+Failed to move Track Volume.,无法移动轨道音量。
+Tutorial,教程
+"The edited data will be discarded.
+This action cannot be undone.
+Do you wish to continue?","编辑后的数据将被丢弃。
+此操作无法撤消。
+你想继续吗？"
+Redo,重做
+Scissors(_S),裁剪(_S)
+Languages,语言
+Inspector,检查器
+Failed to save media.,无法保存媒体。
+Korean,韩文
+VOCALOID Preset Files | *.vkeys,VOCALOID 预设文件 | *.vkeys
+-,-
+Failed to initialize Database Manager.,无法初始化数据库管理器。
+Voice Bank Version,声库版本
+Enter preset name:,输入预设名称：
+VOCALOID,VOCALOID
+Amplitude(_M),音量(_M)
+Clear,清除
+Show or Hide Control Parameters Area,开关控制参数区域
+Failed to delete Track Volume.,无法删除轨道音量。
+Don't check for updates upon launch.,启动时不检查更新。
+Add Track...,添加轨道...
+Set Start Marker to Song Position,将开始标记设置为歌曲位置
+Mono,单声道
+Audio Mixdown,音频混缩
+Export to Audio File(_E)...,导出至音频文件(_E)...
+Untitled,无标题
+Failed to save changes. Discard changes and exit dialog.,无法保存编辑内容。放弃更改并退出对话框。
+Failed to copy.,无法复制。
+Failed to initialize user configuration file. VOCALOID Editor will now close.,无法初始化用户设置文件。 退出 VOCALOID Editor。
+note,音符
+Following Depth,后部深度
+A file with this name already exists. Overwrite existing file?,同名文件已存在。是否覆盖该文件？
+Cannot add more tracks. Track count is at the limit.,不能添加更多轨道。轨道数受限。
+System shortcut path does not exist.,系统快捷键路径不存在。
+Version,版本
+Add New Type,添加新类型
+Preferences,偏好设定
+VOCALOID Sequence|*.vpr;*.vsqx|All Files|*.*,VOCALOID 序列|*.vpr;*.vsqx|所有文件|*.*
+Shift Lyrics Left,左移歌词
+Emotion(_E),情绪(_E)
+Zoom,缩放
+Failed to add VOCALOID part.,无法添加VOCALOID片段。
+Leading Drift,前部偏移
+Set end marker to song position(_E),将结束标记设定至光标位置(_E)
+Copy,复制
+Stereo Out R,立体声输出 R
+VOCALOID6 Sequence|*.vpr,VOCALOID6 序列|*.vpr
+Delete,删除
+Failed to initialize Style Manager.,无法初始化风格管理器。
+Add Track...,添加轨道...
+Voice Bank used in project not installed.,未安装该工程所使用的音源。
+Changed to installed Voice Bank.,已变更到已安装的音源。
+Audio Mixdown,音频混缩
+VOCALOID6 Editor,VOCALOID6 Editor
+Audio,音频
+Leading Depth,前部深度
+Cut(_T),剪切(_T)
+Failed to move Main Volume.,无法移动主音量。
+Effect List,效果表
+Phonetic Symbol Mode,发音符号模式
+Track Selection,音轨选择
+Failed to add VOCALOID track.,无法添加VOCALOID轨道。
+Failed to initialize DSE.,无法初始化DSE。
+Failed to get content information.,获取内容信息失败。
+Audio Mixdown...,音频混音...
+Select All Time Signatures(_T),全选拍号标志(_T)
+Failed to edit vibrato.,无法编辑滑音。
+Failed to duplicate VOCALOID Part.,无法复制VOCALOID片段。
+Failed to resize Audio part.,无法调整音频片段的大小。
+Edit Media Properties(_E),编辑媒体素材属性(_E)
+Failed to cut.,无法剪切。
+Sampling Rate,采样率
+MAIN,主要
+Part Duration,片段长度
+Grid - 1/8,网格-1/8
+Grid - 1/4,网格-1/4
+Grid - 1/2,网格-1/2
+Grid - 1/1,网格-1/1
+UTF-8,UTF-8
+(Unset),(未设置)
+"Fatal Error: Failed to write synthesized audio file.
+
+Please save your project under a different name and then relaunch the application.","致命错误：无法写入合成的音频文件。
+
+请将您的项目保存为其他名称，然后重新启动应用程序。"
+(remaining {0} voices),(剩余{0}个声库)
+Cut,剪切
+Mixer,混音器
+Media,媒体
+Paste,粘贴
+Add Audio Effect(_A),添加音频效果(_A)
+Server Error.,服务器错误。
+Vibrato Start,开始位置
+Your software is up to date.,你的软件已是最新版本。
+Select All,全选
+Activate VOCALOID6 products.,激活VOCALOID6产品。
+Plugin,插件
+Middle Expression,中部表达
+Delete,删除
+Failed to add Audio part.,无法添加音频片段。
+Set Repeat to Selection Range,选择区间为重复范围
+Japanese,日文
+Add New Genre,新建流派
+Add New Color,添加新色彩
+Zoom In Vertically,垂直方向放大
+Media Pasting Key Transposition Settings,粘贴媒体的转置设置
+Failed to delete control parameter.,无法删除控制参数。
+Remind Me Later,稍后再说
+Are you sure you want to delete this media? This action cannot be undone.,确定要删除此媒体吗？此操作无法撤消。
+Check for Updates...,检查更新...
+Add Part to Media...,添加片段到媒体...
+Failed to initialize Audio Engine.,无法初始化音频引擎。
+Remove the selected shortcut key?,删除选定的快捷键？
+VPR File...,VPR文件...
+The user configuration file will be initialized because it is corrupted.,用户配置文件将被初始化，因为它已损坏。
+Add VOCALOID Track,添加VOCALOID轨道
+Insert audio on one track or insert each on different track?,"您想将音频文件一起插入到一个轨道中吗？
+是否要将每个轨道插入到单独的轨道中？"
+Connecting to ReWire,正在连接 ReWire
+Edit Media Properties,编辑媒体属性
+Failed to get updater information.,获取更新信息失败。
+Installation Interrupted.,安装中断。
+"VOCALOID6 Editor not authorized.
+
+Please enter a valid VOCALOID6 serial code into the VOCALOID Authorizer.","VOCALOID6编辑器未激活。
+
+请在VOCALOID激活器中输入VOCALOID6的序列号进行激活。"
+Voice Bank Version...,声库版本...
+Freeze,冻结
+Command,命令
+Grid,网格
+ExportSMF,导出SMF
+Shift Lyrics Left(_L),歌词整体左移一格(_L)
+Leading Transition,前部表达
+Failed to optimize project data for the current version of VOCALOID Editor.,无法优化当前版本的VOCALOID编辑器的项目数据。
+Channel,频道
+Discard preset changes?,要放弃预设编辑吗？
+Too long names are not loaded.,名称太长而无法加载。
+The following voice has not been authorized.,下列声音还未激活。
+Privacy Policy,隐私政策
+MIDI Device,MIDI 设备
+Failed to edit note.,编辑音符失败。
+Voice Bank Name,声库名
+Voice Bank not installed,未安装音源
+Update now?,是否现在更新？
+A new version of VOCALOID Editor is available to download.,新版本的VOCALOID已经可以下载。
+Details,详细
+VOCALOID Default Voice,VOCALOID 默认声音
+Discard,丢弃
+"Cannot add more tracks.
+The track count is at the limit.","无法添加更多曲目。
+曲目数量已达到极限。"
+Spanish,西班牙文
+Close,关闭
+File,文件
+API Error.,API 错误。
+Preventing double start,防止重启
+Create Part on Song Position(_P),在光标位置创建乐段(_P)
+Failed to perform Double Tempo.,无法加倍曲速。
+Normalize Audio Wave,归一化音频波
+Voice,声音
+Main Track,主音轨
+Failed to delete.,无法删除。
+Stereo Out L,立体声输出 L
+Reset Lyrics(_R),重置歌词(_R)
+Setting,设置
+Control Panel,控制面板
+The cache clearing process is performed when closing the current project.,缓存清除过程在关闭当前项目时执行。
+Audio Device,音频设备
+Song Position,歌曲位置
+-,-
+Pitch,音高
+Add Track,添加轨道
+{0} day remaining,还剩 {0} 天
+Ctrl+X,Ctrl+X
+This application is already running.,此应用已在运行。
+Arrow(_A),箭头(_A)
+Attack & Release Effect,Attack & Release 效果
+Number,序号
+Revert,回复最后保存的状态
+Failed to perform partial audio mixdown.,无法执行部分音频混音。
+Half Tempo,曲速减半
+Fine Tune,细间距
+Record,录音
+Failed to open explorer.,无法打开文件资源管理器。
+Failed to move Panpot.,无法移动Panpot。
+Following Expression,向后表达式
+Open folder after export to audio file,打开所导出音频的文件夹
+(New),(新)
+Create Time Signature on Song Position(_N),添加拍号标志(_N)
+English,英文
+VOCALOID:AI Default Voice,VOCALOID:AI 默认声音
+News...,新闻...
+Additional VOCALOID content is available to download.,其他VOCALOID内容可供下载。
+Add New Color,添加新色彩
+Repeat(_R),重复(_R)
+Main Track,主音轨
+Timeout Wait Time (sec),超时等待时间（秒）
+Add New Type,添加新类型
+Select All(_A),全选(_A)
+Pre-roll play (0.5 seconds),预滚播放 (0.5秒)
+None,无
+Grid - 1/64,网格-1/64
+Gird - 1/32,网格-1/32
+Grid - 1/16,网格-1/16
+Paste(_P),粘贴(_P)
+MIDI File...,导出 MIDI文件...
+Delete Media(_D),移除媒体素材(_D)
+The path name is too long.,路径名称过长。
+Media,媒体
+New,新建
+Import - Audio File,导入 - 音频文件
+Network Error.,网络错误。
+Revert to the previously saved version?,是否恢复到以前保存的版本？
+Failed to edit amplitude.,无法编辑音量。
+Import - VSQX File,导入 - VSQX 文件
+Import - MIDI File,导入 - MIDI 文件
+"Please enter the applicable serial code for this voice into the VOCALOID Authorizer.
+(Voicebanks whose authorization grace periods have expired will not play.)
+
+Authorize now?
+
+(Clicking [Yes] will launch the VOCALOID Authorizer.)","需要在VOCALOID激活器中输入相关声库的序列号进行激活。
+(已经过了试用期的声库将不可使用）
+
+现在激活吗？
+
+(点击[是]，启动VOCALOID激活器）"
+Failed to edit control parameter.,无法编辑控制参数。
+VOCALOID:AI,VOCALOID:AI
+SMF|*.mid;*.midi,SMF|*.mid;*.midi
+Chinese,中文
+Audio file cannot be found.,找不到音频文件。
+Failed to export Audio File this place. : Error ,无法在此导出音频文件。错误 
+Failed to delete style preset.,无法删除风格预设。
+vocaloid.com,vocaloid.com
+Rate,速度
+VOCALOID6 Editor,VOCALOID6 Editor
+Failed to duplicate Track Volume.,无法复制音轨音量。
+Character encoding of lyrics,歌词字符编码
+Pencil,铅笔
+Installation Error.,安装过程错误。
+About VOCALOID6 Editor,关于 VOCALOID6 编辑器
+Failed to delete Main Volume.,无法删除主音量。
+Depth,深度
+Pencil(_P),铅笔(_P)
+Failed to add Panpot.,无法添加Panpot。
+Vibrato,颤音
+https://rsc-net.vocaloid.com/assets/pdf_files/bb/VOCALOID_Reference_Manual_ENG.pdf,https://rsc-net.vocaloid.com/assets/pdf_files/bb/VOCALOID_Reference_Manual_JPN.pdf
+Free trial,可以免费试用
+Failed to reverse audio wave. Error ,无法反转音频波形。错误 
+Failed to resize VOCALOID Part.,无法调整VOCALOID 片段。
+8GB,8GB
+1GB,1GB
+4GB,4GB
+2GB,2GB
+This name contains space.,名称中含有空格。
+The following Voice Banks that can be updated.,下列声库可以升级。
+Failed to add Track Volume.,无法增大轨道音量。
+Authorize now,现在激活
+Character encoding of lyrics,歌词字符编码
+Max:,最大：
+Media,媒体
+Failed to open URL.,无法打开URL。
+Get Cache Size,获取缓存大小
+Insert Silence,插入无声部分
+Import - VPR File,导入 - VPR文件
+Frailed to duplicate Track.,无法复制轨道。
+Load pre-installed media,加载已安装媒体
+Add Audio Track,添加音频轨道
+Paste,粘贴
+Import - Tempo and Time Signature,导入 - 曲速和拍子
+MSD and Export to WAV(_W)...,导出带MSD的 WAV文件(_W)...
+Record,录音
+Editor,编辑器
+Default Lyric,默认歌词
+Failed to save style preset file.,无法保存风格预设文件。
+Grid - Off,网格 - 关闭
+Edit Part Name,乐段重命名
+Shift Lyrics Right,右移歌词
+Quantize 50%,量化 50%
+Change Lyric Input Mode,更改歌词输入模式
+Add,添加
+Spanish,西班牙文
+Select All Tempos(_T),全选曲速标志(_T)
+Failed to save project file.,无法保存工程文件。
+Save,保存
+Delete(_D),删除(_D)
+Bit Depth,位深度
+Failed to delete preset file.,无法删除预设文件。
+Keyboard Shortcuts...,快捷键...
+Return to start position on stop,停止时返回到播放开始位置
+Please check the websites of Voice Bank vendors.,请查看声库发行公司的主页。
+PhonemeTiming(_H),音素时值(_H)
+Paint Tool Group,绘制工具组
+Wave File|*.wav|All Files|*.*,波形文件|*.wav|所有文件|*.*
+Failed to duplicate Audio part.,无法复制音频片段。
+Getting Updater Information.,获取更新信息。
+(Extension),(扩张)
+Rename,变更预置名称
+Import Settings,导入设定
+Failed to write preset file.,无法写入预设文件。
+Failed to add Main Volume.,无法增大主音量。
+Failed to Freeze.,冻结失败。
