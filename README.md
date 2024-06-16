@@ -27,4 +27,4 @@ zh-CN Translation for VOCALOID 6 (ALL Version)
 ## FAQ
 
 ### 1.翻译水平如何？
-我是外语系的学生，简单的翻译，我参考了myxx的vocaloid6翻译文件，所以能看，但有不足之处。
+我是门外汉，简单的翻译，我参考了myxx的vocaloid6翻译文件，所以能看，但有不足之处。
