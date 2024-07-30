@@ -3,6 +3,9 @@ zh-CN Translation for VOCALOID 6 (ALL Version)
 感谢UlyssesWu大佬开发的UniTranslator
 仅支持 Windows
 
+## 编辑器版本号
+VOCALOID 6.3.2
+
 ## 如何使用
 直接下载汉化后的两个dll文件，复制到编辑器目录下覆盖就行了。
 
